@@ -31,13 +31,11 @@ body {
 .english {
 	float: left;
 	margin-left: 6%;
-
 }
 
 .fa {
 	margin-left: 1em;
 	font-size: 1.1em;
-
 }
 
 .far {
@@ -64,7 +62,6 @@ ul#menu li {
 	display: inline;
 	margin-left: 2em;
 	margin-top: 1em;
-
 }
 
 .nav {
@@ -80,7 +77,6 @@ ul#menu li {
 	float: left;
 	font-size: 3em;
 	letter-spacing: .3em;
-
 }
 
 .menu-search {
@@ -176,7 +172,6 @@ p {
 
 .contain-footer-right {
 	float: left;
-
 	margin-left: -1em;
 }
 
@@ -362,7 +357,6 @@ p {
 	margin-top: 3em;
 	color: white;
 	text-align: center;
-
 }
 
 .input-query {
@@ -406,7 +400,6 @@ p {
 	margin-left: 15em;
 	width: 17em;
 	float: left;
-
 }
 
 .customer {
@@ -465,14 +458,12 @@ ul.list-services li {
 .globe {
 	margin-right: .5em;
 	width: 1.5em;
-
 }
 
 .center-footer {
 	float: left;
 	margin-left: 14em;
 	padding-top: 1em;
-
 }
 
 .title-one {
@@ -504,7 +495,6 @@ ul.list-services li {
 	float: right;
 	margin-left: 2em;
 	margin-top: 1em;
-	/*background-color: white;*/
 	height: 3em;
 	width: 3em;
 }
@@ -530,7 +520,6 @@ ul.list-services li {
 .serch-bar-hover-position {
 	background: white;
 	height: 6em;
-
 }
 
 .btn-one {
